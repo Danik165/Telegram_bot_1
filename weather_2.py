@@ -1,6 +1,6 @@
 # import required modules
 import requests
-from probnik import ans
+#from probnik import ans
 
 # Enter your API key here
 api_key = "371007bd03f590ec93612b4b95773888"
@@ -9,7 +9,7 @@ api_key = "371007bd03f590ec93612b4b95773888"
 base_url = "https://api.openweathermap.org/data/2.5/weather?"
 
 # Give city name
-city_name = "kukatpally"
+city_name = "Kukatpally"
 # input("Enter city name : ")
 
 # complete_url variable to store
