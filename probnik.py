@@ -5,6 +5,7 @@ from main import bot, dp
 from weather_2 import current_temperature, weather_description, current_humidity
 
 
+
 async def send_to_admin(d):
     await bot.send_message(chat_id=admin_id, text='Bot is on:1')
 
